@@ -3,7 +3,7 @@ Dockerfile for you-get.
 
 ## build image
 ```
-docker build -t you-get https://github.com/guolunwei/docker-you-get.git
+docker build -t you-get github.com/guolunwei/docker-you-get
 ```
 
 ## usage
